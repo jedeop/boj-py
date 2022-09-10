@@ -1,0 +1,7 @@
+id = "1978"
+url = "https://www.acmicpc.net/problem/1978"
+title = "소수 찾기"
+
+[[examples]]
+input = "4\n1 3 5 7\n"
+output = "3\n"
