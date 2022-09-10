@@ -1,0 +1,7 @@
+id = "11866"
+url = "https://www.acmicpc.net/problem/11866"
+title = "요세푸스 문제 0"
+
+[[examples]]
+input = "7 3\n"
+output = "<3, 6, 2, 7, 5, 1, 4>\n"
